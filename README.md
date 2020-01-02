@@ -2,9 +2,9 @@ Frontend Development stajım esnasında faydalandığım makalelerden seçtikler
 
 
 1) HTTP Protokolü nedir, nasıl çalışır ?
-	 a) Mert Eroğlu | https://labs.zingat.com/http-protokol%C3%BCn%C3%BC-anlamak-60e2da54f101 <br>
+	 a) <strong>Mert Eroğlu</strong> | https://labs.zingat.com/http-protokol%C3%BCn%C3%BC-anlamak-60e2da54f101 <br>
 	 b) İTÜ BİDB | http://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/06/http-https <br>
- 	 c) Tuğba Ayvaz | https://www.mediaclick.com.tr/blog/http-nedir <br>
+ 	 c) <marquee>Tuğba Ayvaz</marquee> | https://www.mediaclick.com.tr/blog/http-nedir <br>
 
 2) İsimlendirme Kuralları(Naming Convention) nedir? Tipleri nelerdir?
 	a) 	Haydar Can | https://www.haydarcan.com/camel-case-snake-case-hungarian-notation/
