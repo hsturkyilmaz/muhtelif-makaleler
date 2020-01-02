@@ -1,4 +1,4 @@
-<h2>Birinci Bölüm</h2>
+<h2>Birinci Kısım</h2>
 <br>
 1) HTTP Protokolü Nedir, Nasıl Çalışır ? <br>
 <br>
@@ -70,8 +70,7 @@ a) Zafer Ayan | <a href="http://devnot.com/2019/cors-nedir/">CORS Nedir?</a><br>
 <br>
 <br>
 <br>
-<br>
-<h2>İkinci Bölüm</h2>
+<h2>İkinci Kısım</h2>
 <br>
 1) Responsive Nedir?<br>
 <br>
