@@ -1,6 +1,25 @@
 Frontend Development stajım esnasında faydalandığım makalelerden seçtiklerimdir.
 
 
+
+1) HTTP Protokolü Nedir, Nasıl Çalışır ? <br>
+a) Mert Eroğlu | <a href="https://labs.zingat.com/http-protokol%C3%BCn%C3%BC-anlamak-60e2da54f101">HTTP Protokolünü Anlamak</a><br>
+b) İTÜ BİDB | <a href="http://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/06/http-https">HTTP & HTTPS</a><br>
+c) Tuğba Ayvaz | <a href="https://www.mediaclick.com.tr/blog/http-nedir">http nedir?</a><br>
+<br>
+2) İsimlendirme Kuralları (Naming Convention) Nedir? Tipleri Nelerdir? <br>
+a) Haydar Can | <a href="https://www.haydarcan.com/camel-case-snake-case-hungarian-notation/">Camel Case, Snake Case, Kebap Case, Hungarian Notation</a><br>
+b) Patrick Divine | <a href="https://medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841">Case Styles: Camel, Pascal, Snake, and Kebab Case</a><br>
+c) Chase Adams | <a href="https://www.chaseadams.io/most-common-programming-case-types/">Most Common Programming Case Types</a><br>
+d) Fatih Kadir Akın | <a href="https://www.udemy.com/course/javascript-ile-temel-programlama-ve-ileri-seviye-javascript/">JavaScript ile Temel Programlama ve İleri Seviye JavaScript (9. Video)</a><br>
+<br>
+3) Grid Sistem Nedir, Nasıl Kullanılır? <br>
+a) Büşra Memiş | <a href="https://medium.com/@busramemis/css-grid-layout-ca9035b942f6">CSS Grid Layout</a><br>
+b) Enes Öztürk | <a href="http://www.ozturkenes.com/css/2016/09/01/Grid-sistemi-nedir-nasil-yazilir/">Grid sistemi nedir? Nasıl yazılır?</a><br>
+c) W3Schools | <a href="https://www.w3schools.com/css/css_grid.asp">CSS Grid Layout Module</a><br>
+<br>
+
+
 1) HTTP Protokolü nedir, nasıl çalışır ?
 	 a) <strong>Mert Eroğlu</strong> | https://labs.zingat.com/http-protokol%C3%BCn%C3%BC-anlamak-60e2da54f101 <br>
 	 b) İTÜ BİDB | http://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/06/http-https <br>
